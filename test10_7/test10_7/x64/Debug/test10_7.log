@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\czj20\source\repos\test10_7\test10_7\test.c(329,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  test10_7.vcxproj -> C:\Users\czj20\source\repos\test10_7\x64\Debug\test10_7.exe
